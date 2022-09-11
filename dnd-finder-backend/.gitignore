@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+/dnd-finder-backend/node_modules
+/dnd-finder-backend/.env
+
 # testing
 /coverage
 
