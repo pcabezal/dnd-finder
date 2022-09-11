@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Cards from './Cards';
 import Header from './Header';
+import SwipeButtons from './SwipeButtons';
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
       
 
       {/* {SwipeButtons} */}
-
+      <SwipeButtons/>
 
 
     </div>
